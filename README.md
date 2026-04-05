@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- LOGO & BANNER -->
-<img src="docs/images/banner.png" alt="Pipeline Intelligence Banner" width="100%" />
+
 
 <br/>
 
@@ -481,7 +481,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for the full guide.
 # 1. Fork the repository on GitHub
 
 # 2. Clone your fork
-git clone https://github.com/YOUR_USERNAME/pipeline-intelligence.git
+git clone https://github.com/HlaliMedAmine/pipeline-intelligence.git
 
 # 3. Create a feature branch
 git checkout -b feature/amazing-new-feature
@@ -544,7 +544,7 @@ Just keep the original copyright notice. That's it.
 
 <div align="center">
 
-**Built with ❤️ for the DevOps community**
+**Built with ❤️ for the Azure & DevOps community**
 
 [⭐ Star this repo](https://github.com/HlaliMedAmine/pipeline-intelligence) · [🐛 Report a bug](https://github.com/HlaliMedAmine/pipeline-intelligence/issues) · [💡 Request a feature](https://github.com/HlaliMedAmine/pipeline-intelligence/issues)
 
