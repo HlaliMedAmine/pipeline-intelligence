@@ -5,7 +5,7 @@
 
 <br/>
 
-# ⚡ Pipeline Intelligence
+# ⚡ Pipeline  Intelligence
 
 ### AI-Powered Azure DevOps Pipeline Monitoring & Optimization Platform
 
