@@ -1,0 +1,49 @@
+# ─── Dependencies ───────────────────────
+node_modules/
+.pnp
+.pnp.js
+
+# ─── Environment (NEVER commit these) ───
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# ─── Build outputs ───────────────────────
+dist/
+build/
+out/
+
+# ─── Vite ────────────────────────────────
+frontend/dist/
+frontend/.vite/
+
+# ─── Logs ────────────────────────────────
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ─── OS files ────────────────────────────
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+desktop.ini
+
+# ─── Editor ──────────────────────────────
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+
+# ─── Docker ──────────────────────────────
+.dockerignore
+
+# ─── Misc ────────────────────────────────
+*.pem
+coverage/
+.nyc_output/
