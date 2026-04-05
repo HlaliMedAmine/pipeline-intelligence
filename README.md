@@ -513,7 +513,7 @@ git push origin feature/amazing-new-feature
 **Mohamed Amine Hlali**
 
 - 💼 Senior DevOps Engineer | Azure Cloud Architect | Kubernetes
-- 🔗 LinkedIn: [linkedin.com/in/mohamedaminehlali](https://linkedin.com/in/mohamedaminehlali)
+- 🔗 LinkedIn: [linkedin.com/in/mohamedaminehlali](https://www.linkedin.com/in/mohamed-amine-hlali/)
 - 🐙 GitHub: [@HlaliMedAmine](https://github.com/HlaliMedAmine)
 
 ---
