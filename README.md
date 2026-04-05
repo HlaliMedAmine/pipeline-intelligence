@@ -11,7 +11,7 @@
 
 <p align="center">
   <strong>Stop guessing. Start optimizing.</strong><br/>
-  Connect to Azure DevOps and get real-time AI insights into your pipeline performance — bottlenecks detected, savings calculated, fixes suggested.
+  Connect to Azure DevOps and get real-time AI insights into your pipeline performance bottlenecks detected, savings calculated, fixes suggested.
 </p>
 
 <br/>
